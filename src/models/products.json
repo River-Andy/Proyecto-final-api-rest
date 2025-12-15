@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Notebook Bangho i5",
+    "price": 599000,
+    "categories": ["Tecnología", "Computadoras", "Notebooks"]
+  },
+  {
+    "id": 2,
+    "name": "Auriculares Bluetooth Sony WH-CH520",
+    "price": 85000,
+    "categories": ["Tecnología", "Audio", "Accesorios"]
+  },
+  {
+    "id": 3,
+    "name": " Jarra acero inoxidable, mango de madera",
+    "price": 12000,
+    "categories": ["Hogar", "Cocina"]
+  },
+  {
+    "id": 4,
+    "name": "Zapatillas sin logo",
+    "price": 5000,
+    "categorias": ["Moda", "Calzado", "Oferta"]
+  },
+  {
+    "id": 5,
+    "name": "Mouse Logiteche g305",
+    "price": 30000,
+    "categories": ["Hogar", "Oficina"]
+  }
+  
+]
