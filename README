@@ -1,0 +1,4 @@
+Estoy teneindo problemas con jwebtoken, no puedo crear un token.
+Se crea una api rest que cumple con los requisitos minimos que solicitaba el trabajo.
+Se instalaron todas las dependencias que solicitaba menos CORS
+Se integro la api con vercel
