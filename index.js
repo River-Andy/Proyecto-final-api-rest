@@ -6,6 +6,10 @@ import { auth } from "./src/middlewares/auth.middleware.js";
 const app = express();
 app.use(express.json());
 
+app.get("/", (req, res) =>{
+  res.json({message: "Hola, bienvenido a nuestra api REST"});
+});
+
 app.use("/api", productsRouter);
 
 app.use(auth);
